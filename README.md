@@ -13,6 +13,8 @@
 课程总学时为48学时（3*16），大概分配：课程讲授占50%，学生的文献阅读和讨论占20%，学生参与开源项目的实践报告占30%。
 
 ## 文件结构
-*intro.md：课程大纲
-*courseware：课程课件
-*publicizematerial：宣传/研讨材料，例如跟本课程相关的大会报告slide
+* intro.md：课程大纲
+
+* courseware：课程课件
+
+* publicizeMaterial：跟本课程相关的宣传/研讨材料等，例如大会报告slides 
