@@ -10,7 +10,7 @@
 * 第2次课：软件工程：传统软工与开源软工的异同。 <u>SE-1</u>  
  201：经典软件工程。**lecture201**    
  202：从传统软工到开源开发。**lecture202**       
- 203：如何通过互联网了解一个开源项目的开发过程 （to be or not to be? TBC）  
+ 203：如何通过互联网了解一个开源项目的开发过程 （to be or not to be? TBC）   
  *** call for contribution：开发过程实例：企业开发一个产品版本的过程&一个开源软件版本的开发过程。  ***
  
  作业：选择一个开源项目，了解其开发过程
@@ -22,7 +22,7 @@
 303：criteria to select open source project and task to participate in
 
 
-* 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，为开源任务选择做准备&提供依据）OSP-2
+* 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，为开源任务选择做准备&提供依据）OSP-2   
 *** call for contribution：围绕其开源项目介绍如何参与、如何贡献，以及其项目常用规则 ***
 
 
