@@ -20,7 +20,7 @@
 
 * 第3次课：开源开发的支持平台、技术以及参与贡献的过程。（熟悉开源平台和相关参与操作，布置开源任务的选择）OSP-1   10/08
 301：Git实践入门  
-302：GitHub实践入门 
+302：GitHub实践入门    
 303：开源贡献指南：criteria to select open source project and task to participate in; learn how the open source community works; how to make the first contribution.
 
 ********************
