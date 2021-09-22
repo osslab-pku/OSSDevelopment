@@ -10,4 +10,4 @@
 
 4, Practice of making contribution: understand the protocol of a project: reading CONTRIBUTING.MD -- understand what it says about how to make contribution (with an example).
 
-
+5, Practice of communication: what to say, how to say it, when to communicate
