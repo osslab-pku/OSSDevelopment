@@ -25,14 +25,10 @@
 
 
 * 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，为开源任务选择做准备&提供依据）OSP-2   10/15    
-*** call for contribution：围绕其开源项目介绍如何参与、如何贡献，以及其项目常用规则 ***
-
-开源项目的分享（操作系统，容器，AI框架）：项目介绍、技术介绍、如何参与。  
-
-openEuler，胡欣蔚；
-
-kata container，王旭；
-
+*** call for contribution：围绕其开源项目介绍如何参与、如何贡献，以及其项目常用规则 ***   
+开源项目的分享（操作系统，容器，AI框架）：项目介绍、技术介绍、如何参与。    
+openEuler，胡欣蔚；  
+kata container，王旭；  
 paddlepaddle，朱欤。
 
 
