@@ -15,7 +15,8 @@
 203：开源贡献指南：criteria to select open source project and task to participate in; learn how the open source community works; how to make the first contribution.
 <!--
   作业：选择一个开源项目，了解其开发过程
--->
+-->  
+实践：在github course社区中创建一个repo, 写下一个md文档，阐述目前想到的可能会去贡献的oss project（某个特定项目或具有某些特征的项目）
 
 * 第3次课：软件工程：传统软工与开源软工的异同。 <u>SE-1</u>   09/24   
  201：经典软件工程。**lecture201**    
@@ -36,13 +37,14 @@ paddlepaddle，朱欤。
 学生报告，如何根据criteria to select open source project and task来进行开源任务的选择（报告模板参见课件）
 
 
-* 第6次课：开源软件开发的典型开发活动及支持技术。（开源贡献实践篇：CI/CD，如何沟通，如何提交PR等。）OSP-3 10/29
-
+* 第6次课：开源软件开发的典型开发活动及支持技术。（开源贡献实践篇：CI/CD）OSP-3 10/29  
+上机实习：了解三种CI流程管理工具Travis CI、GitHub Actions、Gitee Go, 知道如何使用这些工具编写简单的CI流水线，并且在实践项目上完成符合要求的成功构建。
 
 * 第7次课：软件工程经典思想：设计原则。及其在开源项目中的应用和变化。 <u>SE-2</u>  11/05
 
 
-* 第8次课：课程项目报告：进度报告，涉及任务选择/合作反馈/工具使用等。 PRJ-2  11/12
+* 第8次课：课程项目报告：进度报告，涉及任务选择/合作反馈/工具使用等。 PRJ-2  11/12  
+* OPTIONAL：开源软件开发的典型开发活动及支持技术。（开源贡献实践篇：如何沟通，如何提交PR等。）
 
 
 * 第9次课：开源社区及开源文化。与开源布道师面对面。 OSC-1  11/19  
