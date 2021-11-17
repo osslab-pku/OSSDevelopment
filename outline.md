@@ -2,7 +2,7 @@
 **主要内容：软工基础理论SE + 开源方法、技术和实践OSP + 开源文化OSC + 课程项目PRJ**
 
 * 第1次课：开源软件及其开发概述。  2021/09/17  
- 100课程简介：课程的目的和内容，以及课程的考核形式。  **lecture100**
+ 100课程简介：课程的目的和内容，以及课程的考核形式。  **lecture100**    
  101开源软件概述：开源的定义、历史和现状、社区结构和治理，以及开源研究。 **lecture101**  
  <!-- 
 102开源参与概述：怎么参与开源项目和社区（如果时间允许，课堂上访问github/gitee/educoder，设立平台账号，了解一个开源项目）。**lecture102** 
@@ -13,10 +13,12 @@
 201：Git实践入门  
 202：GitHub实践入门    
 203：开源贡献指南：criteria to select open source project and task to participate in; learn how the open source community works; how to make the first contribution.
+
+实践：在github course社区中创建一个repo, 写下一个md文档，阐述目前想到的可能会去贡献的oss project（某个特定项目或具有某些特征的项目）
 <!--
   作业：选择一个开源项目，了解其开发过程
 -->  
-实践：在github course社区中创建一个repo, 写下一个md文档，阐述目前想到的可能会去贡献的oss project（某个特定项目或具有某些特征的项目）
+
 
 * 第3次课：软件工程：传统软工与开源软工的异同。 <u>SE-1</u>   09/24   
  201：经典软件工程。**lecture201**    
@@ -58,6 +60,7 @@ paddlepaddle，朱欤。
 * 第11次课：开源软件开发的开发活动和支持技术：协作和沟通。（开源贡献实践篇：讲授+课堂实践）OSP-5  12/03
 OPTIONAL：（开源贡献实践篇：如何沟通，如何提交PR等。）
   
+  
 * 第12次课：工具使用，社区体验，问题和挑战等。OSP-3  12/10    
 上机实习：TBC
 
@@ -71,7 +74,5 @@ OPTIONAL：（开源贡献实践篇：如何沟通，如何提交PR等。）
 * 第15次课：业界开源专家经验分享：开源需要的能力。 OSP+C    12/24  
 *** call for contribution：***
 
+
 * 第16次课：课程项目结题报告。 PRJ-3   12/31 (2022/01/03停课)
-
-
-
