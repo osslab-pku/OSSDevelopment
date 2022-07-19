@@ -17,6 +17,8 @@
 
 * [courseware](./courseware/)：课程课件
 
+* [recruitOSSproject](./recruitOSSproject/)：开源项目报名（为学生参与开源项目提供线索）
+
 * [publicizeMaterial](./publicizeMaterial/)：跟本课程相关的宣传/研讨材料等，例如大会报告slides 
 
 * [uploadYOURS](./uploadYOURS/)：任何贡献者对课程有建议或素材或课件可记录或上载于此
