@@ -30,12 +30,12 @@
 * 为学生进入开源项目提供精细化指南；
 * 为学生宣讲和展现开源技术和文化。
 
-如果您是开源项目的维护者，且您希望对您的项目进行校园宣传和招新，可在此发起[Discussion](https://github.com/osslab-pku/OSSDevelopment/discussions)，提供项目介绍和联系方式；或者发送邮件联系：zhmh@pku.edu.cn。可以选择如下宣传方式：
+如果您是开源项目的维护者，且您希望对您的项目进行校园宣传和招新，可在此发起[Discussion](https://github.com/osslab-pku/OSSDevelopment/discussions)，提供项目介绍和联系方式；或者发送邮件联系：zhmh@pku.edu.cn。可选的宣传方式：
 
-* 提供相关资料（尤其是有关新人如何上手的资料），我们整合在本仓库中并在课程上进行介绍
+* 提供相关资料（尤其是有关新人如何上手的资料），整合在本仓库中，我们在课程上进行介绍
 * 如果条件允许，在北京大学的课程上作现场报告/宣讲
 
-之前做过宣讲的项目包括PaddlePaddle、openEuler、TiDB等
+之前做过宣讲的项目包括：PaddlePaddle、openEuler、TiDB、等等
 
 ## 将相关材料用于教学
 

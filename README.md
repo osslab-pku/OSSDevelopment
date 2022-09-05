@@ -45,8 +45,8 @@
 
 ## 如何贡献
 
-* **在我们的课程上宣传您的开源项目！** 详见[CONTRIBUTING.md](CONTRIBUTING.md)
-* 希望使用相关材料用于您的教学？请[联系我们](CONTRIBUTING.md)
+* **在我们的课程上宣传您的开源项目！** 详见[CONTRIBUTING.md](CONTRIBUTING.md#开源项目招募)
+* 希望使用相关材料用于您的教学？请[联系我们](CONTRIBUTING.md#将相关材料用于教学)
 * 认为课程设计和作业设计存在不足？有任何意见和建议？请发起一个[Discussion](https://github.com/osslab-pku/OSSDevelopment/discussions)
 * 在任何地方发现了Typo、Bug、或格式问题？请开启一个[Issue](https://github.com/osslab-pku/OSSDevelopment/issues)或者直接提交[Pull Request](https://github.com/osslab-pku/OSSDevelopment/pulls)
 
