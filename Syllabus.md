@@ -9,8 +9,8 @@
 * 101开源软件概述：开源的定义、历史和现状、社区结构和治理，以及开源研究。 **lecture101**  
 * 102开源参与概述：怎么参与开源项目和社区（如果时间允许，课堂上访问github/gitee/gitlink，设立平台账号，了解一个开源项目）。**lecture102** 
 
-> **Lab 1：练习使用git和GitHub**
->  - 注册GitHub账号；
+> **Lab 1：练习使用git和GitHub（7分）**
+>  - 注册GitHub账号
 >  - 加入课程的[Organization](https://github.com/OSS-Dev-Course-PKU)
 >  - 创建GitHub仓库并添加commit，于README.md写下目前的开源项目贡献想法
 > 
@@ -36,7 +36,7 @@
   - criteria to select open source project and task to participate in.  
   - 以1~2个GitHub项目/任务为例，展示如何做贡献（消除畏惧感）.
 
-> **Lab 2：了解开源项目的开发方式和贡献流程**
+> **Lab 2：了解开源项目的开发方式和贡献流程（7分）**
 > 
 > 任意选择一个活跃、成熟的开源项目：
 > - 了解并报告CONTRIBUTING.md的形式和内容
@@ -50,7 +50,7 @@
 
 ## 第5次课：如何选择任务参与，GitHub Good First Issue（课堂lecture）  10/12   
 
-> **Lab 3：探索可以参与的开发任务** 
+> **Lab 3：在开源项目中选择开发任务（8分）** 
 > 
 > - 选择一个或者多个感兴趣的开源项目，探索并报告：
 >   * 是否具有Good First Issue机制
@@ -69,7 +69,7 @@
 
 ## 第7次课：CI/CD（上机实习） 10/26
  
-> **Lab 4：CI/CD流水线搭建** 
+> **Lab 4：CI/CD流水线搭建（10分）** 
 > 
 > 了解三种CI流程管理工具Travis CI、GitHub Actions、Gitee Go, 知道如何使用这些工具编写简单的CI流水线，并且在实践项目上完成符合要求的成功构建
 >
@@ -84,7 +84,7 @@
 
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习） 11/9
 
-> **Lab 5：Python开源软件包安装/管理/打包/上载**
+> **Lab 5：Python开源软件包安装/管理/打包/上载（10分）**
 >
 > - 使用pip进行python包的管理；
 > - 使用poetry进行python包的管理；
@@ -105,7 +105,9 @@
 
 * 协作和沟通的重要性，如何沟通，分布式沟通中的要点，如何提交PR等。
 
-> Lab 6： 阅读linux kernel中的沟通实践相关资料，体会总结开源沟通的最佳实践
+> **Lab 6：Linux Kernel沟通实践（8分）**
+>
+> 阅读Linux Kernel中的沟通实践相关资料，体会总结开源沟通的最佳实践（8分）
 >
 > - 提交issue时如何参与讨论，如何沟通
 > - 提交pr时如何沟通
