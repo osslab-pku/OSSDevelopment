@@ -38,7 +38,7 @@
 
 ## 文件结构
 
-* [课程大纲.md](课程大纲.md)：课程大纲（包含课程作业概览和评分标准）
+* [Syllabus.md](Syllabus.md)：课程大纲（包含课程作业概览和评分标准）
 * [Slides](Slides/)：课程课件
 * [Assignments](Assginments/)：课程作业
 * [PublicizingMaterials](PublicizingMaterials/)：课程相关宣传/研讨材料，例如大会报告
