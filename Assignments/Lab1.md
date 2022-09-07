@@ -20,7 +20,7 @@
 8. 将这个repository上传到[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中你创建的GitHub仓库。
 9. （建议上过一周课程后再继续这一步）相比较于上一次，你的贡献想法和计划发生了什么变化？请在你创建的GitHub仓库中开启一个issue，用一句话描述贡献想法和计划的变化。
 > 在真实的开源项目中，Issue和PR的内容通常会有规定的[模板](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)，以便于维护者快速地处理新的Issue和PR；在本Lab中，因为相关的issue和PR过于trivial，故不对内容作任何要求；但是需要额外注意，如果在真实的开源项目中提交issue和PR，通常需要严格遵循其规定的贡献指南。之后的Lab中涉及到对成熟开源项目的贡献指南的观察和分析。
-10. 将你创建的GitHub仓库fork到你自己的账号下，添加一个或者多个新commit，将想法的变化更新在README.md中，并对你创建的GitHub仓库开启一个PR，设置reviewer为助教，等待助教合并PR
+10. 将你创建的GitHub仓库fork到你自己的账号下，添加一个或者多个新commit，将想法的变化更新在README.md中，并对你创建的GitHub仓库开启一个PR，设置reviewer为助教，等待助教合并PR。
 > 在Lab 1中，你有直接合并PR的权限；在真实的开源项目中，通常只有核心维护者具有PR合并权限，需要通过一轮或多轮[Code Review](https://en.wikipedia.org/wiki/Code_review)，才能合并PR里的变更。
 
 ## 评分标准
