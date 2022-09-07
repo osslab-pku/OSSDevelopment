@@ -32,6 +32,8 @@
 - （1分）按要求fork repository、提交commit修改、和提交PR
 - （1分）贡献想法体现出了对开源项目的了解和自己的认真思考
 
+对于每一项评分标准，超过DDL的提交统一不得分
+
 ## 提交方式
 
 Lab 1无需特意提交任何内容，助教会在DDL后检查[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中是否存在相应仓库、README.md、fork/PR合并记录、和贡献想法，做出最终评分
