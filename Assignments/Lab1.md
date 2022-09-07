@@ -27,7 +27,7 @@
 - （1分）按要求创建了repository
 - （1分）Repository中有README.md
 - （1分）按要求书写了commit message
-- （1分）README.md有OSS贡献计划
+- （1分）README.md有OSS开源项目贡献想法和计划
 - （1分）按要求open issue
 - （1分）按要求fork repository、提交commit修改、和提交PR
 - （1分）贡献想法体现出了对开源项目的了解和自己的认真思考
