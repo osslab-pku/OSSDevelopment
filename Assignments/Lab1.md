@@ -13,7 +13,7 @@
 3. 在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个GitHub仓库，名为`2022Fall-{学号}-Lab1`。
 > 例如，如果学号为2000012345，那么仓库名应当为`2022Fall-2000012345-Lab1`。
 4. 在自己的个人电脑上安装git，初始化一个git repository。
-> 网上存在大量关于如何在Windows/Mac OS/Linux安装git、初始化git repository、和添加commit的教程，可自行搜索参考，在此不再赘述；除命令行外，VS Code等IDE也提供非常便捷的git操作GUI。
+> 网上存在大量关于如何在Windows/Mac OS/Linux安装git、初始化git repository、和添加commit的教程，我们在此推荐[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)和[Pro Git前五章](https://git-scm.com/book/en/v2)，也可自行搜索参考其他教程，在此不再赘述；除命令行外，VS Code等IDE也提供非常便捷的git操作GUI。
 5. 在repository中创建README.md文件，在文件中描述自己目前对开源项目的贡献想法，为本学期的课程学习设定目标。
 6. 在一个新的commit中添加README.md进入git仓库，这个commit的commit message应当为`Add README.md with my OSS contribution plan`。
 > 为了保证软件项目的可维护性，特别是为了方便他人查看和理解一个项目的开发历史，commit message的最低要求通常是**能够简明扼要地总结这个commit所包含的变更**。对于大型项目而言，往往还会对commit message格式做出更加严格的要求，例如[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)，方便对commit进行自动化管理。
@@ -41,6 +41,6 @@ Lab 1无需特意提交任何内容，助教会在DDL后检查[OSS-Dev-Course-PK
 
 ## 备注
 
-1. Lab 1中所涉及的git操作相对比较简单，在真实的开源项目中可能会涉及到比较复杂的git操作（例如branch/rebase/squash/submodule等）；因此，虽然Lab 1不对此作强制的评分要求，但是我们强烈建议，如果你对git仍不熟悉，可以自己过一遍[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)，以免在之后的课程项目中遭遇困难。
+1. Lab 1中所涉及的git操作相对比较简单，在真实的开源项目中可能会涉及到比较复杂的git操作（例如branch/rebase/squash/submodule等）；因此，虽然Lab 1不对此作强制的评分要求，但是我们强烈建议，如果你对git仍不熟悉，可以自己过一遍[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)并做一做附带的练习，以免在之后的课程项目中遭遇困难。
 2. 若上述操作流程中存在误操作，或者需要修改贡献想法，自行重新提交即可，只要仓库历史上存在一个符合要求的commit、issue、fork、PR，即符合得分要求。
 3. 在评分标准中，贡献想法的长度**不会**作为评分的参考，简明扼要即可；评分的最终解释权归助教所有。
