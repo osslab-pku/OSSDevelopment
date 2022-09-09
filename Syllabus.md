@@ -10,7 +10,10 @@
 
 * 100课程简介：课程的目的和内容，以及课程的考核形式。  **lecture100**    
 * 101开源软件概述：开源的定义、历史和现状、社区结构和治理，以及开源研究。 **lecture101**  
-* 102开源参与概述：怎么参与开源项目和社区（如果时间允许，课堂上访问github/gitee/gitlink，设立平台账号，了解一个开源项目）。**lecture102** 
+
+课堂练习：
+* 课堂上访问github/gitee/gitlink，设立平台账号，了解一个开源项目。
+* 阅读并了解Lab1。
 
 > **Lab 1：练习使用git和GitHub（7分）**
 >  - 注册GitHub账号
@@ -20,11 +23,12 @@
 > Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2022.09.28 11:59am**
 
 ## 第2次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture） 09/14      
-  
+
 * 201：Git实践入门  
   - 了解版本控制，了解使用Git，https://missing.csail.mit.edu/2020/version-control/   
 * 202：GitHub实践入门    
   - 了解如何用开源协作工具，熟悉Github/Gitee/GitLink--建立账号和代码仓库，浏览和fork项目
+* 203：开源参与概述：怎么参与开源项目和社区。     **lecture203**   
 
 > **Lab 1扩展：练习使用issue、fork和PR**
 >  - 提交一个issue，描述自己的想法（相比较于第一次提交）做出了哪些变化
