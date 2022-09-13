@@ -24,9 +24,9 @@
 
 ## 第2次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture） 09/14      
 
-* 201：Git实践入门  
+* 201：Git实践入门   **lecture201**
   - 了解版本控制，了解使用Git，https://missing.csail.mit.edu/2020/version-control/   
-* 202：GitHub实践入门    
+* 202：GitHub实践入门     **lecture202**
   - 了解如何用开源协作工具，熟悉Github/Gitee/GitLink--建立账号和代码仓库，浏览和fork项目
 * 203：开源参与概述：怎么参与开源项目和社区。     **lecture203**   
 
