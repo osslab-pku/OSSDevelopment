@@ -28,7 +28,7 @@
   - 了解版本控制，了解使用Git，https://missing.csail.mit.edu/2020/version-control/   
 * 202：GitHub实践入门     **lecture202**
   - 了解如何用开源协作工具，熟悉Github/Gitee/GitLink--建立账号和代码仓库，浏览和fork项目
-* 203：开源参与概述：怎么参与开源项目和社区。     **lecture203**   
+
 
 > **Lab 1扩展：练习使用issue、fork和PR**
 >  - 提交一个issue，描述自己的想法（相比较于第一次提交）做出了哪些变化
@@ -42,6 +42,8 @@
   - learn how the open source community works;    
   - criteria to select open source project and task to participate in.  
   - 以1~2个GitHub项目/任务为例，展示如何做贡献（消除畏惧感）.
+
+* 302：开源参与概述：怎么参与开源项目和社区。     **lecture302**   
 
 > **Lab 2：了解开源项目的开发方式和贡献流程（7分）**
 > 
