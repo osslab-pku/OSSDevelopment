@@ -29,7 +29,6 @@
 * 202：GitHub实践入门     **lecture202**
   - 了解如何用开源协作工具，熟悉Github/Gitee/GitLink--建立账号和代码仓库，浏览和fork项目
 
-
 > **Lab 1扩展：练习使用issue、fork和PR**
 >  - 提交一个issue，描述自己的想法（相比较于第一次提交）做出了哪些变化
 >  - 将仓库fork到自己的账号下，对README.md做出相应修改并提出一个PR
