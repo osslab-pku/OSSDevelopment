@@ -50,7 +50,7 @@
 > - 了解并报告CONTRIBUTING.md的形式和内容
 > - 回答有关其贡献流程、质量管理方式等若干问题
 >
-> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2022.10.12 11:59am**
+> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2022.10.05 11:59am**
 
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，为开源任务选择做准备&提供依据）  	 09/28
 
@@ -68,8 +68,7 @@
 >   * [GitHub Good First Issue](https://github.com/topics/good-first-issue)
 >   * [good-first-issue.dev](https://goodfirstissue.dev/)
 > 
-> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2022.10.26 11:59am**
-
+> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2022.10.19 11:59am**
 
 ## 第6次课：（课程项目开题报告）选择开源项目和开源任务  10/12
 
@@ -81,7 +80,7 @@
 > 
 > 了解三种CI流程管理工具Travis CI、GitHub Actions、Gitee Go, 知道如何使用这些工具编写简单的CI流水线，并且在实践项目上完成符合要求的成功构建
 >
-> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2022.11.9 11:59am**
+> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2022.11.02 11:59am**
 >
 > 4Fun: 2021课程实习过程中关于gitee go的建议：https://toscode.gitee.com/pitcher/gitee-go-exercise/issues  
 
@@ -99,7 +98,7 @@
 > - 配置自己的python包，包括配置setup.py、setup.cfg和pyproject.toml；
 > - 熟悉Python包生态系统平台PyPI，并且通过setuptools、wheel和build三种方式将自己的python包发布到testpypi平台上（注意，不是pypi平台。Testpypi https://test.pypi.org 是与PyPI分离的python包发布平台，使练习时发布的python包不会影响到真正的生态）
 >
-> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2022.11.30 11:59am**
+> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2022.11.23 11:59am**
 
 ## 第10次课：开源社区及开源文化，与开源布道师面对面    11/9
 
@@ -120,7 +119,7 @@
 > - 提交issue时如何参与讨论，如何沟通
 > - 提交pr时如何沟通
 >
-> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2022.12.14 11:59am**
+> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2022.12.07 11:59am**
 
 ## 第13次课：开源开发和生态相关的挑战和研究（课堂lecture） 11/30
 
