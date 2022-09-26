@@ -51,7 +51,8 @@ See the Mulan PSL v2 for more details.
 * 301：开源贡献指南：     **lecture302**
   - learn how the open source community works;    
   - criteria to select open source project and task to participate in.  
-  - 以1~2个GitHub项目/任务为例，展示如何做贡献（消除畏惧感）.
+
+* 303: 以特定GitHub项目/任务为例，展示如何做贡献。以及讲述往年同学的贡献历程和体会。（消除畏惧感）  **lecture303**    
 
 > **Lab 2：了解开源项目的开发方式和贡献流程（7分）**
 > 
@@ -61,7 +62,7 @@ See the Mulan PSL v2 for more details.
 >
 > Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2022.10.05 11:59am**
 
-## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，为开源任务选择做准备&提供依据）  	 09/28
+## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	 09/28
 
 * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
 
@@ -97,7 +98,6 @@ See the Mulan PSL v2 for more details.
 ## 第8次课：闭源与开源软工的异同（课堂lecture）     10/26
 
 
-
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习） 11/2
 
 > **Lab 5：Python开源软件包安装/管理/打包/上载（10分）**
@@ -112,9 +112,7 @@ See the Mulan PSL v2 for more details.
 ## 第10次课：开源社区及开源文化，与开源布道师面对面    11/9
 
 
-
 ## 第11次课：（课程项目进度报告）任务选择/合作反馈/工具使用等 PRJ-2  11/16
-
 
 
 ## 第12次课：开源开发中的沟通实践     11/23
