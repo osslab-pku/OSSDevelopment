@@ -47,5 +47,6 @@
     - [静态分析](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)：简单地说，静态分析工具通过对代码运行特定的算法，来检查代码是否存在常见的质量问题，或者将代码自动格式化成统一的格式（便于维护），典型的工具有Java的[FindBug](http://findbugs.sourceforge.net/)、Python的[black](https://black.readthedocs.io/en/stable/)、等等。
     - [软件测试](https://en.wikipedia.org/wiki/Software_testing)：简单地说，软件测试就是通过一组专门编写的程序（i.e., 测试用例）来验证软件项目的核心代码的正确性。通常项目都会使用某些开源测试框架（例如，[JUnit](https://junit.org/junit5/)、[pytest](https://docs.pytest.org/en/7.1.x/)、等等），简化编写测试用例和运行复杂测试的过程。
     - [持续集成/持续部署(CI/CD)](https://en.wikipedia.org/wiki/Continuous_integration)：CI是指在代码提交到云端后，在一系列预先配置好的虚拟机环境下运行一系列自动化脚本，对代码库的整体质量进行检查，避免引入bug；CD是在这一步的基础上，自动化地将程序发布/部署到特定的位置；通常CI和CD会在一起配置成一个由脚本组成的流水线。常见的流水线脚本包括代码静态分析、软件测试（单元测试、集成测试、...）、自动部署（自动发布）、等等。
+3. 请注意为开源项目配置开发环境所花的时间可能难以预估，请务必尽早开始。
     
 
