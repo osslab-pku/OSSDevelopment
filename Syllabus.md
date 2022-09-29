@@ -52,7 +52,7 @@ See the Mulan PSL v2 for more details.
   - learn how the open source community works;    
   - criteria to select open source project and task to participate in.  
 
-* 303: 以特定GitHub项目/任务为例，展示如何做贡献。以及讲述往年同学的贡献历程和体会。（消除畏惧感）  **lecture303**    
+* 303: 以特定GitHub项目/任务为例，展示如何做贡献；以及讲述往年同学的贡献历程和体会。（消除畏惧感）  **lecture303**    
 
 > **Lab 2：了解开源项目的开发方式和贡献流程（7分）**
 > 
@@ -65,6 +65,9 @@ See the Mulan PSL v2 for more details.
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	 09/28
 
 * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
+         - 张军（百度飞浆）：飞桨开源社区及开源贡献介绍
+         - 林俊旸（阿里巴巴达摩院智能计算实验室）：多模态大模型开源介绍，以及达摩院一站式开源模型服务平台介绍
+         - 齐宝玮（华为鸿蒙）：开源鸿蒙开发者社区运营经验分享
 
 ## 第5次课：如何选择任务参与，GitHub Good First Issue（课堂lecture）  10/05   
 
@@ -95,7 +98,7 @@ See the Mulan PSL v2 for more details.
 > 4Fun: 2021课程实习过程中关于gitee go的建议：https://toscode.gitee.com/pitcher/gitee-go-exercise/issues  
 
 
-## 第8次课：闭源与开源软工的异同（课堂lecture）     10/26
+## 第8次课：闭源与开源软件工程的异同（课堂lecture）     10/26
 
 
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习） 11/2
