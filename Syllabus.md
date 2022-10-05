@@ -76,10 +76,6 @@ See the Mulan PSL v2 for more details.
 > - 选择一个或者多个感兴趣的开源项目，探索并报告：
 >   * 是否具有Good First Issue机制
 >   * 如果你需要在其中选择开发任务，你会如何做
-> - 参考以下几个Good First Issue推荐网站，报告其使用体验，对比其优缺点
->   * [GFI-Bot](https://gfibot.io)
->   * [GitHub Good First Issue](https://github.com/topics/good-first-issue)
->   * [good-first-issue.dev](https://goodfirstissue.dev/)
 > 
 > Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2022.10.19 11:59am**
 
