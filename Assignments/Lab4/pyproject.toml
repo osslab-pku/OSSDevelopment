@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pygraph"
+version = "0.1.0"
+description = "Simple Python Graph Library"
+authors = []
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
+pytest-cov = "^3.0.0"
+black = "*"
+pre-commit = "*"
+pdoc3 = "0.10.0"
