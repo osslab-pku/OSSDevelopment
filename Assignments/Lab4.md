@@ -12,7 +12,7 @@
 [Lab4/](Lab4/)文件夹中是一个功能极简的用Python实现图数据结构的包`pygraph`，该项目目前采用[Poetry](https://python-poetry.org/)进行依赖管理，[pytest](https://docs.pytest.org/en/7.1.x/)作为测试框架，文件结构如下：
 
 * `pygraph.py`实现图数据结构，包含一个类和一些简单函数，均未实现，且结构混乱。
-* `pyproject.toml`是Poetry使用的依赖配置文件。
+* `pyproject.toml`是Poetry使用的依赖配置文件，文件中声明了本项目支持的Python版本（**仅支持Python 3.10**)，以及本Lab中需要的各种开发依赖。
 * `tests/`文件夹包含若干测试。
 * `pyproject.toml`是`pytest`的配置文件。
 
@@ -69,6 +69,8 @@ Lab 4需要为这个项目配置开发环境，补全未实现的代码，并配
     > 对于公有仓库，可以配置GitHub读取`gh-page`分支，在github.io直接提供相应的公开可访问的网页，这样便实现了API文档的持续部署（对于软件包本身的持续部署，我们留到Lab 5再实现）。
     >
     > 不过非常遗憾的是，私有仓库的GitHub Page是收费功能。如果同学们以后创建自己的项目，可以尝试用同样的方法自动部署各种网页，确认实际效果。
+
+    > 需要注意CI环境里是不能使用`poetry shell`的（[相关讨论](https://github.com/python-poetry/poetry/discussions/3526)）。
 
 8. 将所有更改体现在GitHub仓库中。
 
