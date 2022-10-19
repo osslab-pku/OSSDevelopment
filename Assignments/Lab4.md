@@ -111,7 +111,7 @@ Lab 4无需特意提交任何内容，助教会在DDL后检查[OSS-Dev-Course-PK
 4. [black文档](https://black.readthedocs.io/en/stable/)
 5. [pre-commit文档](https://pre-commit.com/)
 6. [pdoc3文档](https://pdoc3.github.io/pdoc/)
-7. [GitHub Action文档](https://docs.github.com/en/actions)
+7. [GitHub Action文档](https://docs.github.com/en/actions)，[基本概念](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)，[测试&构建Python项目](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 8. 可能有用的GitHub Action插件：
      1. https://black.readthedocs.io/en/stable/integrations/github_actions.html
      2. https://github.com/actions/setup-python
