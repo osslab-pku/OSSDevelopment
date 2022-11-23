@@ -1,7 +1,5 @@
 # Lab 6：Linux Kernel中的沟通实践（8分）
 
-**备注：目前尚未定稿，定稿后会正式在群里和教学网通知**
-
 **截止日期：2022.12.07 11:59am**
 
 ## 实践目的
@@ -12,21 +10,24 @@
 
 **前两个问题二选一回答即可
 
-> （4分）阅读Linux Kernel中的沟通与协作的实践相关资料（参见末尾），对于下面几个沟通的例子，依次回答：这个例子是否有违反Linux Kernel的沟通最佳实践？如果有，在这一场景下应该怎么做？为什么需要这么做？
+> （4分）阅读Linux Kernel中的沟通与协作的实践相关资料（参见末尾），对于下面几个沟通的例子，依次回答：这个例子是否有违反Linux Kernel的沟通最佳实践（即Linux官方文档中定义的沟通要求）？如果有，在这一场景下应该怎么做？为什么需要这么做？
 >
 >    1. "This limitation should be explained in the cover letter and changelog." (Patch #759033)
 >    2. "Commit e21d2170f36602ae2708 (“video: remove unnecessary platform_set_drvdata()”) removed the unnecessary platform_set_drvdata(), but left the variable “dev” unused, delete it." ([Patch #2833310](https://patchwork.kernel.org/project/linux-fbdev/patch/51F0F88D.8060903@cn.fujitsu.com/))
 >    3. "This adds a device tree definition file for LEGO MINDSTORMS EV3." ([Patch #728065](https://patchwork.kernel.org/project/linux-arm-kernel/patch/1484253167-27568-1-git-send-email-david@lechnology.com/)) 
 >
-> 解释的时候请一并附上Linux官方文档中的有关内容
+> 解释的时候请一并附上Linux官方文档中的有关内容（关于沟通的要求）。
 
 （在这里写下你的回答）
 
-> （4分）选择一个你感兴趣的开源项目，选择三个沟通的例子，依次对每个例子回答：这个例子是否违反了这个项目的沟通最佳实践？如果有，在这一场景下应该怎么做？为什么需要这么做？这个例子有没有你认为做的很好的地方？如果有，为什么？请一并列出你的回答涉及的例子的链接
+> （4分）选择一个你感兴趣的开源项目，选择三个沟通的例子，依次对每个例子回答：
+这个例子是否违反了这个项目（文档定义的）沟通最佳实践，或者一般意义上的开源项目沟通最佳实践？如果有，在这一场景下应该怎么做？为什么需要这么做？
+或者，这个例子是否有你认为做的很好的地方？如果有，为什么？
+请一并列出你的回答涉及的例子的链接。
 
 （在这里写下你的回答）
 
-> （4分）你迄今为止与开源社区做的沟通交流中，有哪些做的符合你认为的最佳实践的地方？有哪些做的不太合适，可以改进的地方？请提供你的沟通交流的相关链接，结合实际例子总结
+> （4分）你迄今为止与开源社区做的沟通交流中，有哪些做的符合你认为的最佳实践的地方？有哪些做的不太合适，可以改进的地方？请提供你的沟通交流的相关链接，结合实际例子总结。
 
 （在这里写下你的回答）
 
