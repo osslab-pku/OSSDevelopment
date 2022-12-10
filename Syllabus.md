@@ -1,11 +1,11 @@
-Copyright (c) 2022 [minghuizhou@osslab-pku]
-[OSSDevelopment-course/开源软件开发&技术课程] is licensed under Mulan PSL v2.
-You can use this software according to the terms and conditions of the Mulan PSL v2.
-You may obtain a copy of Mulan PSL v2 at:
-         http://license.coscl.org.cn/MulanPSL2
-THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
-EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
-MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
+Copyright (c) 2022 [minghuizhou@osslab-pku]  
+[OSSDevelopment-course/开源软件开发&技术课程] is licensed under Mulan PSL v2.   
+You can use this software according to the terms and conditions of the Mulan PSL v2.   
+You may obtain a copy of Mulan PSL v2 at:   
+         http://license.coscl.org.cn/MulanPSL2   
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,   
+EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,   
+MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.   
 See the Mulan PSL v2 for more details.
 
 # 2022年秋冬学期——课程大纲 (subject to change)
