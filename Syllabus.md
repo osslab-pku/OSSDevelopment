@@ -24,7 +24,7 @@ See the Mulan PSL v2 for more details.
 * 课堂上访问github/gitee/gitlink，设立平台账号，了解一个开源项目。
 * 阅读并了解Lab1。
 
-> **Lab 1：练习使用git和GitHub（7分）**
+> **Lab 1：练习使用git和GitHub（7分，三周）**
 >  - 注册GitHub账号
 >  - 加入课程的[Organization](https://github.com/OSS-Dev-Course-PKU)
 >  - 创建GitHub仓库并添加commit，于README.md写下目前的开源项目贡献想法
@@ -54,7 +54,7 @@ See the Mulan PSL v2 for more details.
 
 * 303: 以特定GitHub项目/任务为例，展示如何做贡献；以及讲述往年同学的贡献历程和体会。（消除畏惧感）  **lecture303**    
 
-> **Lab 2：了解开源项目的开发方式和贡献流程（7分）**
+> **Lab 2：了解开源项目的开发方式和贡献流程（7分，两周）**
 > 
 > 任意选择一个活跃、成熟的开源项目：
 > - 了解并报告CONTRIBUTING.md的形式和内容
@@ -75,7 +75,7 @@ See the Mulan PSL v2 for more details.
 * 501：从经典软工到开源开发  **lecture501**
 * 502：如何选择开源任务参与，GitHub Good First Issue       **lecture502**
 
-> **Lab 3：在开源项目中选择开发任务（8分）** 
+> **Lab 3：在开源项目中选择开发任务（8分，两周）** 
 > 
 > - 选择一个或者多个感兴趣的开源项目，探索并报告：
 >   * 是否具有Good First Issue机制
@@ -92,7 +92,7 @@ See the Mulan PSL v2 for more details.
 
 ## 第7次课：CI/CD（上机实习）     10/19
  
-> **Lab 4：CI/CD流水线搭建（10分）** 
+> **Lab 4：CI/CD流水线搭建（10分，两周）** 
 > 
 > 了解CI/CD流程管理工具GitHub Action，知道如何编写简单的CI/CD流水线，并且在实践项目上完成符合要求的成功构建
 >
@@ -108,7 +108,7 @@ See the Mulan PSL v2 for more details.
 
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习） 11/2
 
-> **Lab 5：Python开源软件包安装/管理/打包/上载（10分）**
+> **Lab 5：Python开源软件包安装/管理/打包/上载（10分，三周）**
 >
 > - 使用Poetry进行Python包的安装、管理与打包；
 > - 利用依赖对Python包实现新功能；
@@ -125,7 +125,7 @@ See the Mulan PSL v2 for more details.
 * 协作和沟通的重要性，如何沟通，分布式沟通中的要点，如何提交PR等。
 > (实际发生在10/26)
 
-> **Lab 6：开源项目中的沟通实践（8分）**
+> **Lab 6：开源项目中的沟通实践（8分，两周）**
 >
 > 阅读Linux Kernel沟通实践相关资料，体会总结开源沟通的最佳实践。
 > or, 选择任何一个开源项目，阅读体会其沟通实践，总结最佳实践。
