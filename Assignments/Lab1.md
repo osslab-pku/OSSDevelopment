@@ -1,6 +1,6 @@
 # Lab 1：熟悉git和GitHub（7分）
 
-**截止日期：2023.09.27 11:59am**
+**截止日期：2023.10.05 11:59am**
 
 ## 实践目的
 
@@ -20,17 +20,17 @@
 8. 将这个repository上传到[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中你创建的GitHub仓库。
 9. （建议上过一周课程后再继续这一步）相比较于上一次，你的贡献想法和计划发生了什么变化？请在你创建的GitHub仓库中开启一个issue，用一句话描述贡献想法和计划的变化。
 > 在真实的开源项目中，Issue和PR的内容通常会有规定的[模板](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)，以便于维护者快速地处理新的Issue和PR；在本Lab中，因为相关的issue和PR过于trivial，故不对内容作任何要求；但是需要额外注意，如果在真实的开源项目中提交issue和PR，通常需要严格遵循其规定的贡献指南。之后的Lab中涉及到对成熟开源项目的贡献指南的观察和分析。
-10. 将你创建的GitHub仓库fork到你自己的账号下，添加一个或者多个新commit，将想法的变化更新在README.md中，并对你创建的GitHub仓库开启一个PR，设置reviewer为助教，等待助教合并PR。
-> 在Lab 1中，你有直接合并PR的权限；在真实的开源项目中，通常只有核心维护者具有PR合并权限，需要通过一轮或多轮[Code Review](https://en.wikipedia.org/wiki/Code_review)，才能合并PR里的变更。
+10.  将你创建的GitHub仓库fork到你自己的账号下，新建一个分支，并在新分支中添加一个或者多个新commit，将想法的变化更新在README.md中，随后切回主分支main删除其中README.md的内容并提交删除commit。此时，在你创建的GitHub仓库中开启一个PR，将新分支合并入主分支main，解决存在的冲突，设置reviewer为助教，等待助教合并PR。
+> 在Lab 1中，你有直接合并PR的权限；在真实的开源项目中，通常只有核心维护者具有PR合并权限，需要通过一轮或多轮[Code Review](https://en.wikipedia.org/wiki/Code_review)，才能合并PR里的变更；此外，开源项目在开发过程中通常会选择在不同的[分支](https://docs.github.com/zh/desktop/making-changes-in-a-branch/managing-branches-in-github-desktop)中同步完成不同的开发工作从而使得不同的开发互不影响，但在合并分支的过程中，如果仓库内的不同分支同时对相同文件进行了更改，通常会产生conflicts，此时需要人为进行检查[解决合并冲突](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)，才能合并以获取分支中的最新更改。
 
 ## 评分标准
 
 - （1分）按要求创建了repository。
-- （1分）Repository中有README.md。
-- （1分）按要求书写了commit message。
+- （1分）Repository中有README.md，按要求书写了commit message。
 - （1分）README.md有开源项目的贡献想法和计划。
 - （1分）按要求open issue。
-- （1分）按要求fork repository、提交commit修改、和提交PR。
+- （1分）按要求fork repository、新建分支并在新分支与主分支中同时提交commit修改。
+- （1分）按要求提交PR合并分支并解决产生的conflicts。
 - （1分）贡献想法体现出了对开源项目的了解和自己的认真思考。
 
 对于每一项评分标准，超过DDL的提交统一不得分。
@@ -41,7 +41,7 @@ Lab 1无需特意提交任何内容，助教会在DDL后检查[OSS-Dev-Course-PK
 
 ## 备注
 
-1. Lab 1中所涉及的git操作相对比较简单，在真实的开源项目中可能会涉及到比较复杂的git操作（例如branch/rebase/squash/submodule等）；因此，虽然Lab 1不对此作强制的评分要求，但是我们强烈建议，如果你对git仍不熟悉，可以自己过一遍[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)并做一做附带的练习，以免在之后的课程项目中遭遇困难。
+1. Lab 1中所涉及的git操作相对基础，在真实的开源项目中可能会涉及到比较复杂的git操作（例如branch/rebase/squash/submodule等）；因此，虽然Lab 1不对此作强制的评分要求，但是我们强烈建议，如果你对git仍不熟悉，可以自己过一遍[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)并做一做附带的练习，以免在之后的课程项目中遭遇困难。
 2. 若上述操作流程中存在误操作，或者需要修改贡献想法，自行重新提交即可，只要仓库历史上存在一个符合要求的commit、issue、fork、PR，即符合得分要求。
 3. 在评分标准中，贡献想法的长度**不会**作为评分的参考，简明扼要即可；评分的最终解释权归助教所有。
 4. 结课后，（大概率在明年开课前）助教可能会删除[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)创建的所有repository，如果有需要，请本地保存您提交的相关内容的备份
