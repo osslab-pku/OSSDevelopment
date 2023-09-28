@@ -8,28 +8,19 @@ EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
 MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.   
 See the Mulan PSL v2 for more details.
 
-# 2022年秋冬学期——课程大纲 (subject to change)
+# 2023年秋冬学期——课程大纲 (subject to change)
 
 **主要内容： 开源开发方法、技术和实践OSP + 开源文化OSC + 上机实习lab  + 课程项目PRJ**
 
 授课教师：周明辉 zhmh@pku.edu.cn     
-助教：    何昊 heh@pku.edu.cn      
+助教：   谷海桥 ghq@stu.pku.edu.cn      
 
-## 第1次课：开源软件及其开发概述（课堂lecture）  09/07  
+## 第1次课：开源软件及其开发概述（课堂lecture）  09/13  
 
 * 100课程简介：课程的目的和内容，以及课程的考核形式。  **lecture100**    
 * 101开源软件概述：开源的定义、历史和现状、社区结构和治理，以及开源研究。 **lecture101**  
+* 102往年贡献: 以特定GitHub项目/任务为例，展示如何做贡献；以及讲述往年同学的贡献历程和体会。（消除畏惧感） 
 
-课堂练习：
-* 课堂上访问github/gitee/gitlink，设立平台账号，了解一个开源项目。
-* 阅读并了解Lab1。
-
-> **Lab 1：练习使用git和GitHub（7分，三周）**
->  - 注册GitHub账号
->  - 加入课程的[Organization](https://github.com/OSS-Dev-Course-PKU)
->  - 创建GitHub仓库并添加commit，于README.md写下目前的开源项目贡献想法
-> 
-> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2022.09.28 11:59am**
 
 ## 第2次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture） 09/14      
 
@@ -38,21 +29,32 @@ See the Mulan PSL v2 for more details.
 * 202：GitHub实践入门     **lecture202**
   - 了解如何用开源协作工具，熟悉Github/Gitee/GitLink--建立账号和代码仓库，浏览和fork项目
 
+课堂练习：
+* 课堂上访问github，设立平台账号，了解一个开源项目。
+* 阅读并了解Lab1。
+  
+> **Lab 1：练习使用git和GitHub（7分，两周）**
+>  - 注册GitHub账号
+>  - 加入课程的[Organization](https://github.com/OSS-Dev-Course-PKU)
+>  - 创建GitHub仓库并添加commit，于README.md写下目前的开源项目贡献想法
+> 
+<!-- > Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2022.10.05 11:59am** -->
+
 > **Lab 1扩展：练习使用issue、fork和PR**
 >  - 提交一个issue，描述自己的想法（相比较于第一次提交）做出了哪些变化
->  - 将仓库fork到自己的账号下，对README.md做出相应修改并提出一个PR
+>  - 将仓库fork到自己的账号下，对README.md做出相应修改并提出一个PR，并解决产生的冲突
 >
-> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2022.09.28 11:59am**
+> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2023.10.05 11:59am**
 
-## 第3次课：开源贡献指南（课堂lecture） 09/21   
+## 第3次课：开源贡献指南（课堂lecture） 09/27   
 
 * 301：开源参与概述：怎么参与开源项目和社区。     **lecture301**   
 
-* 301：开源贡献指南：     **lecture302**
+* 302：开源贡献指南：     **lecture302**
   - learn how the open source community works;    
   - criteria to select open source project and task to participate in.  
-
-* 303: 以特定GitHub项目/任务为例，展示如何做贡献；以及讲述往年同学的贡献历程和体会。（消除畏惧感）  **lecture303**    
+  
+* 303：开源课程评分依据：     **lecture303**
 
 > **Lab 2：了解开源项目的开发方式和贡献流程（7分，两周）**
 > 
@@ -60,7 +62,7 @@ See the Mulan PSL v2 for more details.
 > - 了解并报告CONTRIBUTING.md的形式和内容
 > - 回答有关其贡献流程、质量管理方式等若干问题
 >
-> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2022.10.05 11:59am**
+> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2023.10.12 11:59am**
 
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	 09/28
 
