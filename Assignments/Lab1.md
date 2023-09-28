@@ -47,7 +47,7 @@ Lab 1无需特意提交任何内容，助教会在DDL后检查[OSS-Dev-Course-PK
 
 ## 备注
 
-1. Lab 1中所涉及的git操作相对基础，在真实的开源项目中可能会涉及到比较复杂的git操作（例如branch/rebase/squash/submodule等）；因此，虽然Lab 1不对此作强制的评分要求，但是我们强烈建议，如果你对git仍不熟悉，可以自己过一遍[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)并做一做附带的练习，以免在之后的课程项目中遭遇困难。
+1. Lab 1中所涉及的git操作相对基础，在真实的开源项目中可能会涉及到比较复杂的git操作（例如rebase/squash/submodule等）；因此，虽然Lab 1不对此作强制的评分要求，但是我们强烈建议，如果你对git仍不熟悉，可以自己过一遍[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)并做一做附带的练习，以免在之后的课程项目中遭遇困难。
 2. 若上述操作流程中存在误操作，或者需要修改贡献想法，自行重新提交即可，只要仓库历史上存在一个符合要求的commit、issue、fork、PR，即符合得分要求。
 3. 在评分标准中，贡献想法的长度**不会**作为评分的参考，简明扼要即可；评分的最终解释权归助教所有。
 4. 结课后，（大概率在明年开课前）助教可能会删除[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)创建的所有repository，如果有需要，请本地保存您提交的相关内容的备份
