@@ -72,7 +72,7 @@ See the Mulan PSL v2 for more details.
 >   * 是否具有Good First Issue机制
 >   * 如果你需要在其中选择开发任务，你会如何做
 > 
-> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2022.10.19 11:59am**
+> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2022.11.02 11:59am**
 
 ## 第6次课：（课程项目开题报告）选择开源项目和开源任务                                               10/25
 * 学生报告，
@@ -80,13 +80,13 @@ See the Mulan PSL v2 for more details.
          2）对此开源项目及其指南的认识；
          3）贡献计划。
 
-## 第7次课：CI/CD（上机实习）                                                                    11/1
+## 第7次课：CI/CD（上机实习）                                                                    11/01
  
 > **Lab 4：CI/CD流水线搭建（10分，两周）** 
 > 
 > 了解CI/CD流程管理工具GitHub Action，知道如何编写简单的CI/CD流水线，并且在实践项目上完成符合要求的成功构建
 >
-> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2023.xx.xx 11:59am**
+> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2023.11.16 11:59am**
 >
 > 4Fun: 2021课程实习过程中关于gitee go的建议：https://toscode.gitee.com/pitcher/gitee-go-exercise/issues  
 
@@ -103,7 +103,7 @@ See the Mulan PSL v2 for more details.
 > - 将自己的Python包手动发布到TestPyPI；
 > - 配置自动化的CI/CD流水线实现从GitHub直接发布Python包到TestPyPI（注意，不是PyPI平台。[TestPyPI](https://test.pypi.org)是与PyPI分离的Python包发布平台，使练习时发布的Python包不会影响到真正的生态）
 >
-> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2023.xx.xx 11:59am**
+> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2023.11.30 11:59am**
 
 ## 第10次课：开源开发中的沟通实践（课堂lecture）                                                  11/22
 * 601: 协作和沟通的重要性，如何沟通，分布式沟通中的要点，如何提交PR等。**lecture601**
@@ -117,7 +117,7 @@ See the Mulan PSL v2 for more details.
 > - 提交issue时如何参与讨论，如何沟通
 > - 提交pr时如何沟通
 >
-> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2023.xx.xx 11:59am**
+> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2023.12.07 11:59am**
 
 ## 第11次课：（课程项目进度报告）任务选择/合作反馈/工具使用等 PRJ-2                                  11/29
 
