@@ -62,7 +62,8 @@ See the Mulan PSL v2 for more details.
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/11
 
  * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
- 
+ * 飞桨开源社区分享的介绍请看这里（内含课程的ppt在线浏览）：[飞桨开源社区走进北京大学课堂](https://pfcc.blog/posts/pku-course)。
+
 ## 第5次课：开源任务的选择。（课堂lecture）                                                     10/18   
 * 501：如何选择开源任务参与，GitHub Good First Issue       **lecture501**
          
@@ -81,7 +82,7 @@ See the Mulan PSL v2 for more details.
          3）贡献计划。
 
 ## 第7次课：CI/CD（上机实习）                                                                    11/01
- 
+
 > **Lab 4：CI/CD流水线搭建（10分，两周）** 
 > 
 > 了解CI/CD流程管理工具GitHub Action，知道如何编写简单的CI/CD流水线，并且在实践项目上完成符合要求的成功构建
