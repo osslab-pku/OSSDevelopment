@@ -1,1 +1,1 @@
-This directory provides slides related to this course (2023).
+This directory provides slides related to this course (2024).
