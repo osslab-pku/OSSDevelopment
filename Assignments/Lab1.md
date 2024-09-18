@@ -10,8 +10,8 @@
 
 1. 如果你还没有GitHub账号，请注册一个GitHub账号。
 2. 将GitHub账号以邮件/微信形式发给助教，助教发送GitHub邀请到[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)组织，Lab 1、Lab 4和Lab5中涉及操作GitHub的部分均会在此进行；此外，后续的课程项目也会以此处告知的GitHub账号为准进行评分。
-3. 在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个GitHub仓库，名为`2024Fall-{学号（十六进制）}-Lab1`。
-> 例如，如果学号为2000012345，那么仓库名应当为`2024Fall-7735c439-Lab1`。
+3. 在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个GitHub仓库，名为`2024Fall-{学号}-Lab1`。
+> 例如，如果学号为2200012345，那么仓库名应当为`2024Fall-2200012345-Lab1`。
 
 4. 在自己的个人电脑上安装git，初始化一个git repository。
 > 网上存在大量关于如何在Windows/Mac OS/Linux安装git、初始化git repository、和添加commit的教程，我们在此推荐[MIT的Git教程](https://missing.csail.mit.edu/2020/version-control/)和[Pro Git前五章](https://git-scm.com/book/en/v2)，也可自行搜索参考其他教程，在此不再赘述；除命令行外，VS Code等IDE也提供非常便捷的git操作GUI。
