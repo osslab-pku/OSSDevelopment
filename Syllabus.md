@@ -13,7 +13,9 @@ See the Mulan PSL v2 for more details.
 **主要内容： 开源开发方法、技术和实践OSP + 开源文化OSC + 上机实习lab  + 课程项目PRJ**
 
 授课教师：周明辉
-助教：   徐卫伟 wwxu99@gamil.com
+
+助教：   徐卫伟 xuww@stu.pku.edu.cn
+
 
 ## 第1次课：开源软件及其开发概述（课堂lecture）                                                   09/11  
 
