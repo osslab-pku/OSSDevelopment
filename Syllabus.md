@@ -64,7 +64,10 @@ See the Mulan PSL v2 for more details.
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/9
 
  * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
- * 飞桨开源社区分享的介绍请看这里（内含课程的ppt在线浏览）：[飞桨开源社区走进北京大学课堂](https://pfcc.blog/posts/pku-course)。
+ * 飞桨paddlepaddle：开源社区分享的介绍请看这里（内含课程的ppt在线浏览）：[飞桨开源社区走进北京大学课堂](https://pfcc.blog/posts/pku-course)。
+ * 涛思数据TDEngine
+ * SRS
+ * piFlow
 
 ## 第5次课：开源任务的选择。（课堂lecture）                                                     10/16   
 * 501：如何选择开源任务参与，GitHub Good First Issue       **lecture501**
@@ -161,5 +164,5 @@ See the Mulan PSL v2 for more details.
     - CI/CD和包管理，10分一个，共20分  
 *	课程项目PRJ（40分）：  
     - 3次presentation（开题/中期/结题），每次5分  
-    - 期末报告10分  
+    - 期末报告（in latex）10分  
     - 最后的贡献结果15分  
