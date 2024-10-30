@@ -78,7 +78,7 @@ See the Mulan PSL v2 for more details.
 >   * 是否具有Good First Issue机制
 >   * 如果你需要在其中选择开发任务，你会如何做
 > 
-> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2024.10.31 11:59am**
+> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2024.11.7 11:59am**
 
 ## 第6次课：（课程项目开题报告）选择开源项目和开源任务                                               10/23
 * 学生报告，
