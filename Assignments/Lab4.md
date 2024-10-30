@@ -20,7 +20,7 @@ Lab 4需要为这个项目配置开发环境，补全未实现的代码，并配
 
 ## 实践流程
 
-1. 请在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个**私有**GitHub仓库，名为`2023Fall-{学号}-Lab4`，为老师和助教添加访问权限，并将[Lab4/](Lab4/)文件夹中的所有文件push到仓库内（注意不是push文件夹本身）。
+1. 请在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个**私有**GitHub仓库，名为`2024Fall-{学号}-Lab4`，为老师和助教添加访问权限，并将[Lab4/](Lab4/)文件夹中的所有文件push到仓库内（注意不是push文件夹本身）。
 
     > 不要设置为公开仓库或者为其他同学添加访问权限，否则此Lab评分作废；若误操作，请联系助教删除仓库
 
