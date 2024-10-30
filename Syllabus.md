@@ -78,7 +78,7 @@ See the Mulan PSL v2 for more details.
 >   * 是否具有Good First Issue机制
 >   * 如果你需要在其中选择开发任务，你会如何做
 > 
-> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2024.11.7 11:59am**
+> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2024.11.14 11:59am**
 
 ## 第6次课：（课程项目开题报告）选择开源项目和开源任务                                               10/23
 * 学生报告，
@@ -92,7 +92,7 @@ See the Mulan PSL v2 for more details.
 > 
 > 了解CI/CD流程管理工具GitHub Action，知道如何编写简单的CI/CD流水线，并且在实践项目上完成符合要求的成功构建
 >
-> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2024.11.14 11:59am**
+> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2024.11.21 11:59am**
 >
 > 4Fun: 2021课程实习过程中关于gitee go的建议：https://toscode.gitee.com/pitcher/gitee-go-exercise/issues  
 
