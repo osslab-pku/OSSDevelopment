@@ -117,14 +117,14 @@ See the Mulan PSL v2 for more details.
 
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习）                           11/20
 
-> **Lab 5：Python开源软件包安装/管理/打包/上载（10分，两周）**
+> **Lab 5：Python开源软件包安装/管理/打包/上载（10分，三周）**
 >
 > - 使用Poetry进行Python包的安装、管理与打包；
 > - 利用依赖对Python包实现新功能；
 > - 将自己的Python包手动发布到TestPyPI；
 > - 配置自动化的CI/CD流水线实现从GitHub直接发布Python包到TestPyPI（注意，不是PyPI平台。[TestPyPI](https://test.pypi.org)是与PyPI分离的Python包发布平台，使练习时发布的Python包不会影响到真正的生态）
 >
-> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2024.12.05 11:59am**
+> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2024.12.12 11:59am**
 
 
 
