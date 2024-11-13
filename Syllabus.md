@@ -100,18 +100,7 @@ See the Mulan PSL v2 for more details.
 ## 第8次课：从经典软工到开源开发。（课堂lecture）                                                   11/06   
 * 501：从经典软工到开源开发  **lecture501**
 
-## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习）                           11/13
-
-> **Lab 5：Python开源软件包安装/管理/打包/上载（10分，三周）**
->
-> - 使用Poetry进行Python包的安装、管理与打包；
-> - 利用依赖对Python包实现新功能；
-> - 将自己的Python包手动发布到TestPyPI；
-> - 配置自动化的CI/CD流水线实现从GitHub直接发布Python包到TestPyPI（注意，不是PyPI平台。[TestPyPI](https://test.pypi.org)是与PyPI分离的Python包发布平台，使练习时发布的Python包不会影响到真正的生态）
->
-> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2024.11.28 11:59am**
-
-## 第10次课：开源开发中的沟通实践（课堂lecture）                                                  11/20
+## 第10次课：开源开发中的沟通实践（课堂lecture）                                                  11/13
 * 601: 协作和沟通的重要性，如何沟通，分布式沟通中的要点，如何提交PR等。**lecture601**
 
 > **Lab 6：开源项目中的沟通实践（8分，两周）**
@@ -123,7 +112,21 @@ See the Mulan PSL v2 for more details.
 > - 提交issue时如何参与讨论，如何沟通
 > - 提交pr时如何沟通
 >
-> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2024.12.05 11:59am**
+> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2024.11.28 11:59am**
+
+
+## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习）                           11/20
+
+> **Lab 5：Python开源软件包安装/管理/打包/上载（10分，三周）**
+>
+> - 使用Poetry进行Python包的安装、管理与打包；
+> - 利用依赖对Python包实现新功能；
+> - 将自己的Python包手动发布到TestPyPI；
+> - 配置自动化的CI/CD流水线实现从GitHub直接发布Python包到TestPyPI（注意，不是PyPI平台。[TestPyPI](https://test.pypi.org)是与PyPI分离的Python包发布平台，使练习时发布的Python包不会影响到真正的生态）
+>
+> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2024.12.05 11:59am**
+
+
 
 ## 第11次课：（课程项目进度报告）任务选择/合作反馈/工具使用等 PRJ-2                                  11/27
 
