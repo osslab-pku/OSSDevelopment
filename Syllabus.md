@@ -117,7 +117,7 @@ See the Mulan PSL v2 for more details.
 
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习）                           11/20
 
-> **Lab 5：Python开源软件包安装/管理/打包/上载（10分，三周）**
+> **Lab 5：Python开源软件包安装/管理/打包/上载（10分，两周）**
 >
 > - 使用Poetry进行Python包的安装、管理与打包；
 > - 利用依赖对Python包实现新功能；
