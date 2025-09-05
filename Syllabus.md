@@ -8,23 +8,23 @@ EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
 MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.   
 See the Mulan PSL v2 for more details.
 
-# 2024年秋冬学期——课程大纲 (subject to change)
+# 2025年秋冬学期——课程大纲 (subject to change)
 
 **主要内容： 开源开发方法、技术和实践OSP + 开源文化OSC + 上机实习lab  + 课程项目PRJ**
 
 授课教师：周明辉
 
-助教：   徐卫伟 xuww@stu.pku.edu.cn
+助教：   叶恒志 hzye@stu.pku.edu.cn
 
 
-## 第1次课：开源软件及其开发概述（课堂lecture）                                                   09/11  
+## 第1次课：开源软件及其开发概述（课堂lecture）                                                   09/10  
 
 * 100课程简介：课程的目的和内容，以及课程的考核形式。  **lecture100**    
 * 101开源软件概述：开源的定义、历史和现状、社区结构和治理，以及开源研究。 **lecture101**  
 * 102往年贡献: 以特定GitHub项目/任务为例，展示如何做贡献；以及讲述往年同学的贡献历程和体会。（消除畏惧感） 
 
 
-## 第2次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture）                         09/18     
+## 第2次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture）                         09/17     
 
 * 201：Git实践入门   **lecture201**
   - 了解版本控制，了解使用Git，https://missing.csail.mit.edu/2020/version-control/   
@@ -43,9 +43,9 @@ See the Mulan PSL v2 for more details.
 >  - 提交一个issue，描述自己的想法（相比较于第一次提交）做出了哪些变化
 >  - 将仓库fork到自己的账号下，对README.md做出相应修改并提出一个PR，并解决产生的冲突
 >
-> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2024.10.03 11:59am**
+> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2025.10.03 11:59am**
 
-## 第3次课：开源贡献指南（课堂lecture）                                                          09/25   
+## 第3次课：开源贡献指南（课堂lecture）                                                          09/23   
 
 * 301：开源贡献指南：     **lecture301**
   - learn how the open source community works;    
@@ -64,10 +64,10 @@ See the Mulan PSL v2 for more details.
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/9
 
  * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
- * 飞桨paddlepaddle：开源社区分享的介绍请看这里（内含课程的ppt在线浏览）：[飞桨开源社区走进北京大学课堂](https://pfcc.blog/posts/pku-course)。
- * 涛思数据TDEngine
- * SRS
- * piFlow
+ * 
+ * 
+ * 
+ * 
 
 ## 第5次课：开源任务的选择。（课堂lecture）                                                     10/16   
 * 501：如何选择开源任务参与，GitHub Good First Issue       **lecture501**
@@ -137,7 +137,7 @@ See the Mulan PSL v2 for more details.
 
 
 ## 第13次课：开源相关的研究（课堂lecture和讨论）                                          12/11
-* Talks from Daniel and Sean;
+* Talks from Daniel (开源的度量);
 * Talks from Phd students.
          * 开源数字社会学（数据驱动的开源研究，研究对象：软件~开发者，软件供应链~个体效率/群体协作/生态持续性）
          * 发现型和发明型研究案例
