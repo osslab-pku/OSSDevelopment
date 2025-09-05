@@ -21,7 +21,17 @@ See the Mulan PSL v2 for more details.
 
 * 100课程简介：课程的目的和内容，以及课程的考核形式。  **lecture100**    
 * 101开源软件概述：开源的定义、历史和现状、社区结构和治理，以及开源研究。 **lecture101**  
-* 102往年贡献: 以特定GitHub项目/任务为例，展示如何做贡献；以及讲述往年同学的贡献历程和体会。（消除畏惧感） 
+* 102往年贡献: 以特定GitHub项目/任务为例，展示如何做贡献；以及讲述往年同学的贡献历程和体会。（消除畏惧感）
+
+课堂练习：
+* 阅读并了解Lab1-part1。
+  
+> **Lab 1：练习使用git和GitHub（3分，一周）**
+>  - 注册GitHub账号
+>  - 加入课程的[Organization](https://github.com/OSS-Dev-Course-PKU)
+>  - 创建GitHub仓库并添加commit，于README.md写下目前的开源项目贡献想法
+>
+> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2025.9.17 11:59am**
 
 
 ## 第2次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture）                         09/17     
@@ -32,18 +42,12 @@ See the Mulan PSL v2 for more details.
   - 了解如何用开源协作工具，熟悉Github/Gitee/GitLink--建立账号和代码仓库，浏览和fork项目
 
 课堂练习：
-* 阅读并了解Lab1。
-  
-> **Lab 1：练习使用git和GitHub（7分，两周）**
->  - 注册GitHub账号
->  - 加入课程的[Organization](https://github.com/OSS-Dev-Course-PKU)
->  - 创建GitHub仓库并添加commit，于README.md写下目前的开源项目贡献想法
+* 阅读并了解Lab1-part2。
 > 
-> **Lab 1扩展：练习使用issue、fork和PR**
+> **Lab 1扩展：练习使用issue、fork和PR（4分，一周)**
 >  - 提交一个issue，描述自己的想法（相比较于第一次提交）做出了哪些变化
 >  - 将仓库fork到自己的账号下，对README.md做出相应修改并提出一个PR，并解决产生的冲突
->
-> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2025.10.03 11:59am**
+> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2025.9.24 11:59am**
 
 ## 第3次课：开源贡献指南（课堂lecture）                                                          09/24   
 
@@ -59,17 +63,17 @@ See the Mulan PSL v2 for more details.
 > - 了解并报告CONTRIBUTING.md的形式和内容
 > - 回答有关其贡献流程、质量管理方式等若干问题
 >
-> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2024.10.10 11:59am**
+> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2024.10.15 11:59am**
 
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/15
 
  * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
- * 
+ * （to filled）
  * 
  * 
  * 
 
-## 第5次课：开源任务的选择。（课堂lecture）                                                     10/22   
+## 第5次课：开源任务的选择。（课堂lecture）                                              10/22   
 * 501：如何选择开源任务参与，GitHub Good First Issue       **lecture501**
          
 > **Lab 3：在开源项目中选择开发任务（8分，两周）** 
@@ -78,7 +82,7 @@ See the Mulan PSL v2 for more details.
 >   * 是否具有Good First Issue机制
 >   * 如果你需要在其中选择开发任务，你会如何做
 > 
-> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2024.11.14 11:59am**
+> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2024.11.05 11:59am**
 
 ## 第6次课：（课程项目开题报告）选择开源项目和开源任务                                               10/29
 * 学生报告，
@@ -92,7 +96,7 @@ See the Mulan PSL v2 for more details.
 > 
 > 了解CI/CD流程管理工具GitHub Action，知道如何编写简单的CI/CD流水线，并且在实践项目上完成符合要求的成功构建
 >
-> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2024.11.21 11:59am**
+> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2024.11.19 11:59am**
 >
 > 4Fun: 2021课程实习过程中关于gitee go的建议：https://toscode.gitee.com/pitcher/gitee-go-exercise/issues  
 
@@ -112,7 +116,7 @@ See the Mulan PSL v2 for more details.
 > - 提交issue时如何参与讨论，如何沟通
 > - 提交pr时如何沟通
 >
-> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2024.11.28 11:59am**
+> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2024.12.03 11:59am**
 
 
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习）                           11/26
@@ -124,7 +128,7 @@ See the Mulan PSL v2 for more details.
 > - 将自己的Python包手动发布到TestPyPI；
 > - 配置自动化的CI/CD流水线实现从GitHub直接发布Python包到TestPyPI（注意，不是PyPI平台。[TestPyPI](https://test.pypi.org)是与PyPI分离的Python包发布平台，使练习时发布的Python包不会影响到真正的生态）
 >
-> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2024.12.12 11:59am**
+> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2024.12.17 11:59am**
 
 
 
