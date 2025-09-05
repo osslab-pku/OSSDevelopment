@@ -7,7 +7,7 @@
 熟悉开源软件开发中常用的工具、平台、和开发流程；为课程学习确立初步计划和目标。
 
 ## 实践流程
-
+### 基础部分
 1. 如果你还没有GitHub账号，请注册一个GitHub账号。
 2. 将GitHub账号以填写[表单](https://docs.qq.com/form/page/DUnd3eEdaYlpEREhp)形式发给助教，助教发送GitHub邀请到[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)组织，Lab 1、Lab 4和Lab5中涉及操作GitHub的部分均会在此进行；此外，后续的课程项目也会以此处告知的GitHub账号为准进行评分。
 3. 在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个GitHub仓库，名为`2024Fall-{学号}-Lab1`。
@@ -22,7 +22,8 @@
 > 为了保证软件项目的可维护性，特别是为了方便他人查看和理解一个项目的开发历史，commit message的最低要求通常是**能够简明扼要地总结这个commit所包含的变更**。对于大型项目而言，往往还会对commit message格式做出更加严格的要求，例如[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)，方便对commit进行自动化管理。
 
 7. 将这个repository上传到[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中你创建的GitHub仓库。
-   
+
+### 扩展部分
 8. （建议上过一周课程后再继续这一步）相比较于上一次，你的贡献想法和计划发生了什么变化？请在你创建的GitHub仓库中开启一个issue，用一句话描述贡献想法和计划的变化。
 > 在真实的开源项目中，Issue和PR的内容通常会有规定的[模板](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)，以便于维护者快速地处理新的Issue和PR；在本Lab中，因为相关的issue和PR过于trivial，故不对内容作任何要求；但是需要额外注意，如果在真实的开源项目中提交issue和PR，通常需要严格遵循其规定的贡献指南。之后的Lab中涉及到对成熟开源项目的贡献指南的观察和分析。
 
