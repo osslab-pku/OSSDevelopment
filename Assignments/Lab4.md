@@ -104,7 +104,7 @@ pdoc --html pygraph       # build API documentation and deploy to html/
 
 ## 提交方式
 
-在DDL前将PDF版本的实验报告发送至助教邮箱（hzye@stu.pku.edu.cn），命名为“25Fall-(姓名)-Lab4Report”；同时，助教会在DDL后检查[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中检查相应仓库，综合做出最终评分。
+在DDL前将PDF版本的实验报告发送至助教邮箱（hzye@stu.pku.edu.cn），命名为“学号-姓名-Lab4Report”；同时，助教会在DDL后检查[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中检查相应仓库，综合做出最终评分。
 
 ## 参考资料
 
