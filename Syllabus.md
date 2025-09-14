@@ -63,7 +63,7 @@ See the Mulan PSL v2 for more details.
 > - 了解并报告CONTRIBUTING.md的形式和内容
 > - 回答有关其贡献流程、质量管理方式等若干问题
 >
-> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2024.10.15 11:59am**
+> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2025.10.15 11:59am**
 
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/15
 
@@ -82,7 +82,7 @@ See the Mulan PSL v2 for more details.
 >   * 是否具有Good First Issue机制
 >   * 如果你需要在其中选择开发任务，你会如何做
 > 
-> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2024.11.05 11:59am**
+> Lab 3详细要求参见[WriteUp](Assignments/Lab3.md)，**截止日期：2025.11.05 11:59am**
 
 ## 第6次课：（课程项目开题报告）选择开源项目和开源任务                                               10/29
 * 学生报告，
@@ -96,7 +96,7 @@ See the Mulan PSL v2 for more details.
 > 
 > 了解CI/CD流程管理工具GitHub Action，知道如何编写简单的CI/CD流水线，并且在实践项目上完成符合要求的成功构建
 >
-> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2024.11.19 11:59am**
+> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2025.11.19 11:59am**
 >
 > 4Fun: 2021课程实习过程中关于gitee go的建议：https://toscode.gitee.com/pitcher/gitee-go-exercise/issues  
 
@@ -116,7 +116,7 @@ See the Mulan PSL v2 for more details.
 > - 提交issue时如何参与讨论，如何沟通
 > - 提交pr时如何沟通
 >
-> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2024.12.03 11:59am**
+> Lab 6详细要求参见[WriteUp](Assignments/Lab6.md)，**截止日期：2025.12.03 11:59am**
 
 
 ## 第9次课：PyPI/NPM等包生态系统/包管理工具，使用/打包/上载软件包（上机实习）                           11/26
@@ -128,7 +128,7 @@ See the Mulan PSL v2 for more details.
 > - 将自己的Python包手动发布到TestPyPI；
 > - 配置自动化的CI/CD流水线实现从GitHub直接发布Python包到TestPyPI（注意，不是PyPI平台。[TestPyPI](https://test.pypi.org)是与PyPI分离的Python包发布平台，使练习时发布的Python包不会影响到真正的生态）
 >
-> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2024.12.17 11:59am**
+> Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2025.12.17 11:59am**
 
 
 
