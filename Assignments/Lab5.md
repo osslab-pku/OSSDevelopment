@@ -86,12 +86,15 @@
 
 12. 可以尝试仿照步骤7，在TestPyPI安装你的包并调用代码，测试发布是否有效。
 
+13. 撰写一份简要的实验报告，记录你的实操过程及输出结果，并简要总结心得体会。（注意：报告长度不作为评分标准，无严格格式要求，能清晰展示解决了哪些问题、实现了哪些任务即可）
+
 ## 评分标准
 
 - （3分）TestPyPI上有通过步骤1-7发布的Python包。
 - （3分）pygraph实现了计算最短路径的功能并包含可通过的测试样例。
-- （4分）配置了能够自动发布Python包的GitHub Action流水线。
+- （3分）配置了能够自动发布Python包的GitHub Action流水线。
+- （1分）实验报告清晰准确记录了相关实践过程
 
 ## 提交方式
 
-Lab 5无需特意提交任何内容，助教会在DDL后检查[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中检查相应仓库，以及所对应的TestPyPI包，做出最终评分。
+在DDL前将PDF版本的实验报告发送至助教邮箱（hzye@stu.pku.edu.cn），命名为“25Fall-(姓名)-Lab5Report”；此外，助教会在DDL后检查[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中检查相应仓库，以及所对应的TestPyPI包，做出最终评分。
