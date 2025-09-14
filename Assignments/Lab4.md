@@ -1,6 +1,6 @@
 # Lab 4：CI/CD流水线搭建（10分）
 
-**截止日期：2023.11.21 11:59am**
+**截止日期：2025.11.19 11:59am**
 
 ## 实践目的
 
@@ -20,7 +20,7 @@ Lab 4需要为这个项目配置开发环境，补全未实现的代码，并配
 
 ## 实践流程
 
-1. 请在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个**私有**GitHub仓库，名为`2024Fall-{学号}-Lab4`，为老师和助教添加访问权限，并将[Lab4/](Lab4/)文件夹中的所有文件push到仓库内（注意不是push文件夹本身）。
+1. 请在[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中创建一个**私有**GitHub仓库，名为`2025Fall-{学号}-Lab4`，为老师和助教添加访问权限，并将[Lab4/](Lab4/)文件夹中的所有文件push到仓库内（注意不是push文件夹本身）。
 
     > 不要设置为公开仓库或者为其他同学添加访问权限，否则此Lab评分作废；若误操作，请联系助教删除仓库
 
@@ -72,7 +72,9 @@ Lab 4需要为这个项目配置开发环境，补全未实现的代码，并配
 
     > 需要注意CI环境里是不能使用`poetry shell`的（[相关讨论](https://github.com/python-poetry/poetry/discussions/3526)）。
 
-8. 将所有更改体现在GitHub仓库中。
+8. 将所有更改体现在GitHub仓库中;
+
+9. 撰写一份简要的实验报告，记录你的流水线搭建过程及最后搭建成功的pipeline输出结果，并简要总结心得体会。（注意：报告长度不作为评分标准，无严格格式要求，能清晰展示解决了哪些问题、实现了哪些任务即可）
 
 ## 提交前检查
 
@@ -95,13 +97,14 @@ pdoc --html pygraph       # build API documentation and deploy to html/
 
 ## 评分标准
 
-- （3分）所有测试能够通过。
+- （2分）所有测试能够通过。
 - （2分）配置了能够自动格式化代码的Pre-Commit Hook。
 - （5分）配置了至少包含如下五个阶段的GitHub Action流水线：初始化Python环境、安装依赖、代码风格检查、运行单元测试、部署API文档。
+- （1分）实验报告清晰准确记录了相关实践过程
 
 ## 提交方式
 
-Lab 4无需特意提交任何内容，助教会在DDL后检查[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中检查相应仓库，做出最终评分。
+在DDL前将PDF版本的实验报告发送至助教邮箱（hzye@stu.pku.edu.cn），命名为“25Fall-(姓名)-Lab4Report”；同时，助教会在DDL后检查[OSS-Dev-Course-PKU](https://github.com/OSS-Dev-Course-PKU)中检查相应仓库，综合做出最终评分。
 
 ## 参考资料
 
