@@ -47,7 +47,7 @@ See the Mulan PSL v2 for more details.
 > - 了解并报告CONTRIBUTING.md的形式和内容
 > - 回答有关其贡献流程、质量管理方式等若干问题
 >
-> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2025.10.1 11:59am**
+> Lab 2详细要求参见[WriteUp](Assignments/Lab2.md)，**截止日期：2025.10.8 11:59am**
 
 
 ## 第3次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture）                         09/24     
@@ -60,10 +60,10 @@ See the Mulan PSL v2 for more details.
 课堂练习：
 * 阅读并了解Lab1-part2。
 > 
-> **Lab 1扩展：练习使用issue、fork和PR（4分，两周)**
+> **Lab 1扩展：练习使用issue、fork和PR（4分，一周)**
 >  - 提交一个issue，描述自己的想法（相比较于第一次提交）做出了哪些变化
 >  - 将仓库fork到自己的账号下，对README.md做出相应修改并提出一个PR，并解决产生的冲突
-> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2025.10.8 11:59am**
+> Lab 1详细要求参见[WriteUp](Assignments/Lab1.md)，**截止日期：2025.10.1 11:59am**
 
 
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/15
