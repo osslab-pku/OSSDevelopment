@@ -36,7 +36,7 @@ See the Mulan PSL v2 for more details.
 ## 第2次课：开源贡献指南（课堂lecture）                                                          09/17   
 
 * 301：开源贡献指南：     **lecture301**
-  - learn how the open source community works;    
+  - learn how to participate in the open source project;  
   - criteria to select open source project and task to participate in.  
   
 * 302：开源课程评分依据：     **lecture302**
@@ -70,7 +70,7 @@ See the Mulan PSL v2 for more details.
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/15
 
  * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
- * （to filled）
+ * （to be filled）
  * 
  * 
  * 
