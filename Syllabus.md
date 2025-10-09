@@ -35,11 +35,11 @@ See the Mulan PSL v2 for more details.
 
 ## 第2次课：开源贡献指南（课堂lecture）                                                          09/17   
 
-* 301：开源贡献指南：     **lecture301**
+* 201：开源贡献指南：     **lecture201**
   - learn how to participate in the open source project;  
   - criteria to select open source project and task to participate in.  
   
-* 302：开源课程评分依据：     **lecture302**
+* 202：开源课程评分依据：     **lecture202**
 
 > **Lab 2：了解开源项目的开发方式和贡献流程（7分，三周）**
 > 
@@ -52,9 +52,9 @@ See the Mulan PSL v2 for more details.
 
 ## 第3次课：开源开发的支持平台和关键技术：熟悉开源平台和Git操作（课堂lecture）                         09/24     
 
-* 201：Git实践入门   **lecture201**
+* 301：Git实践入门   **lecture201**
   - 了解版本控制，了解使用Git，https://missing.csail.mit.edu/2020/version-control/   
-* 202：GitHub实践入门     **lecture202**
+* 302：GitHub实践入门     **lecture202**
   - 了解如何用开源协作工具，熟悉Github/Gitee/GitLink--建立账号和代码仓库，浏览和fork项目
 
 课堂练习：
@@ -106,7 +106,7 @@ See the Mulan PSL v2 for more details.
 ## 第8次课：从经典软工到开源开发。（课堂lecture）                                                   11/12 
 * 501：从经典软工到开源开发  **lecture501**
 
-## 第10次课：开源开发中的沟通实践（课堂lecture）                                                  11/19
+## 第9次课：开源开发中的沟通实践（课堂lecture）                                                  11/19
 * 601: 协作和沟通的重要性，如何沟通，分布式沟通中的要点，如何提交PR等。**lecture601**
 
 > **Lab 6：开源项目中的沟通实践（8分，两周）**
@@ -131,7 +131,6 @@ See the Mulan PSL v2 for more details.
 > - 配置自动化的CI/CD流水线实现从GitHub直接发布Python包到TestPyPI（注意，不是PyPI平台。[TestPyPI](https://test.pypi.org)是与PyPI分离的Python包发布平台，使练习时发布的Python包不会影响到真正的生态）
 >
 > Lab 5详细要求参见[WriteUp](Assignments/Lab5.md)，**截止日期：2025.12.17 11:59am**
-
 
 
 ## 第11次课：（课程项目进度报告）任务选择/合作反馈/工具使用等 PRJ-2                                  12/03
