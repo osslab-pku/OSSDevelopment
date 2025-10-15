@@ -70,10 +70,9 @@ See the Mulan PSL v2 for more details.
 ## 第4次课：开源项目maintainer分享其维护/开发的经验。（多个项目，开拓视野&为开源任务选择做准备）  	10/15
 
  * 开源项目的分享：项目介绍、技术介绍、项目常用规则、如何参与。    
- * （to be filled）
- * 
- * 
- * 
+ * 邹欣：开源开发流程
+ * 马腾：MoonCake开源实践
+ * 孙钟恺：百度飞桨与文心开源社区分享
 
 ## 第5次课：开源任务的选择。（课堂lecture）                                              10/22   
 * 501：如何选择开源任务参与，GitHub Good First Issue       **lecture501**
