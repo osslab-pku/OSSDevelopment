@@ -36,7 +36,7 @@
 2. [https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/): GitHub官方对good first issue功能的介绍
 3. [https://github.com/topics/good-first-issue](https://github.com/topics/good-first-issue): GitHub提供的good first issue主题页面
 4. [https://goodfirstissue.dev/](https://goodfirstissue.dev/): 一个列出有good first issue的GitHub项目的网站
-5. [https://gfibot.io/](https://gfibot.io/): 对一些GitHub项目推荐good first issue（来自我们实验室）
+5. [GFI-Bot](https://osslab-pku.org/project/2022-07-30-GFI-Bot/): 对一些GitHub项目推荐good first issue（来自我们实验室）
 
 ## 考核方式及评分标准
 
