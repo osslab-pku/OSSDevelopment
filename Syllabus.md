@@ -117,7 +117,7 @@ See the Mulan PSL v2 for more details.
 > 
 > 了解CI/CD流程管理工具GitHub Action，知道如何编写简单的CI/CD流水线，并且在实践项目上完成符合要求的成功构建
 >
-> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2025.11.26 11:59am**
+> Lab 4详细要求参见[WriteUp](Assignments/Lab4.md)，**截止日期：2025.12.3 11:59am**
 >
 > 4Fun: 2021课程实习过程中关于gitee go的建议：https://toscode.gitee.com/pitcher/gitee-go-exercise/issues  
 
