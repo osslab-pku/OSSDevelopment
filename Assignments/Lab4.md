@@ -31,18 +31,48 @@ Lab 4需要为这个项目配置开发环境，补全未实现的代码，并配
     poetry shell
     poetry install
     ```
+    注意，Poetry 2.0 版本之后 poetry shell 不再默认提供。现在有三种常用做法，任选其一：
 
-3. 使用[black](https://black.readthedocs.io/en/stable/)对代码进行重新格式化。
+   2.1. **按 2.0 的新方式使用**
+   
+     在项目目录下创建/选择虚拟环境的 Python 版本，安装依赖并激活虚拟环境（注意：env activate 会输出一条“激活命令”，需要在当前 shell 中执行/评估这条命令）：
+    ```shell script
+    poetry env use python3.11
+    poetry install
+     
+    # macOS/Linux（bash/zsh）：
+    eval "$(poetry env activate)"
+    # PowerShell：
+    poetry env activate | Invoke-Expression
+    # fish：
+    eval (poetry env activate)
+    ```
+
+   2.2 **装回旧的 shell 子命令（通过插件)**
+    ```shell script
+    # 安装插件：
+    poetry self add poetry-plugin-shell
+
+    poetry shell
+    ```
+    
+    3.3 手动激活虚拟环境
+    ```shell script
+    # macOS/Linux：
+    source "$(poetry env info --path)/bin/activate"
+   ```
+
+4. 使用[black](https://black.readthedocs.io/en/stable/)对代码进行重新格式化。
 
     ```shell script
     black .
     ```
 
-4. 使用[pre-commit](https://pre-commit.com/)工具为项目添加Pre-Commit Hook，使得git能够在commit前，调用black对代码进行自动格式化。这需要涉及到编写一个`.pre-commit-config.yaml`文件，并运行`pre-commit install`命令。
+5. 使用[pre-commit](https://pre-commit.com/)工具为项目添加Pre-Commit Hook，使得git能够在commit前，调用black对代码进行自动格式化。这需要涉及到编写一个`.pre-commit-config.yaml`文件，并运行`pre-commit install`命令。
 
     > 为项目配置统一、简洁的代码风格，是为了降低其他人阅读代码时的认知负荷，方便团队协作。这一流程可以利用现有工具高度自动化，不会为开发带来任何额外负担。
 
-5. 修改`pygraph.py`文件，实现其中所有功能，保证运行如下命令可以通过所有测试，并生成测试覆盖率报告。
+6. 修改`pygraph.py`文件，实现其中所有功能，保证运行如下命令可以通过所有测试，并生成测试覆盖率报告。
 
     ```shell script
     pytest -r P --cov=pygraph
@@ -52,13 +82,13 @@ Lab 4需要为这个项目配置开发环境，补全未实现的代码，并配
 
     > 由于本Lab的核心要点并不在于代码实现，因此这里刻意使用了非常简单的代码。不过需要注意，Lab里涉及到的代码实践可适用于，且往往对于长期维护的大型软件项目不可或缺。我们强烈鼓励同学们在自己的其他项目中借鉴运用相关实践（对于各种技术栈，其内核都是相通的），提升整体的工程水平。
 
-6. 使用[pdoc3](https://pdoc3.github.io/pdoc/)为`pygraph`自动生成API文档，可以在`html/`文件夹中查看生成的API文档。
+7. 使用[pdoc3](https://pdoc3.github.io/pdoc/)为`pygraph`自动生成API文档，可以在`html/`文件夹中查看生成的API文档。
 
     ```shell script
     pdoc --html pygraph
     ```
 
-7. 使用GitHub Action配置五阶段CI/CD流水线，包含如下步骤：
+8. 使用GitHub Action配置五阶段CI/CD流水线，包含如下步骤：
 
     * 初始化Python环境，安装Poetry；
     * 使用Poetry自动安装所有依赖；
@@ -72,9 +102,9 @@ Lab 4需要为这个项目配置开发环境，补全未实现的代码，并配
 
     > 需要注意CI环境里是不能使用`poetry shell`的（[相关讨论](https://github.com/python-poetry/poetry/discussions/3526)）。
 
-8. 将所有更改体现在GitHub仓库中;
+9. 将所有更改体现在GitHub仓库中;
 
-9. 撰写一份简要的实验报告，记录你的流水线搭建过程及最后搭建成功的pipeline输出结果，并简要总结心得体会。（注意：报告长度不作为评分标准，无严格格式要求，能清晰展示解决了哪些问题、实现了哪些任务即可）
+10. 撰写一份简要的实验报告，记录你的流水线搭建过程及最后搭建成功的pipeline输出结果，并简要总结心得体会。（注意：报告长度不作为评分标准，无严格格式要求，能清晰展示解决了哪些问题、实现了哪些任务即可）
 
 ## 提交前检查
 
